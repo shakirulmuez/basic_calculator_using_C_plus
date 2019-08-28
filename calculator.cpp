@@ -5,7 +5,6 @@
 #include <iostream>
 using namespace std;
 int operation = 1, int1, int2;
-string opt;
 
 void integer_input(){
     cout << "Enter the first integer: \n";
